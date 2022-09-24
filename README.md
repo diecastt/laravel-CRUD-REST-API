@@ -16,4 +16,4 @@
 
 ### API Endpoints (CRUD):
 
-![image](https://user-images.githubusercontent.com/59063950/91676062-8e6f1180-eb0c-11ea-83b0-affd0f607eac.png)
+![Alt text](/Public/endpoints.png)
