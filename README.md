@@ -10,6 +10,7 @@
 > - Active Record design pattern
 > - SQL Database engine (SQLite)
 > - Eloquent ORM (Migration)
+> - Sanctum (User authentications)
 > - RESTful API guidelines
 > - HTTP (GET, POST, PUT, PATCH, DELETE, status codes)
 > - Testing API Endpoints (Postman)
