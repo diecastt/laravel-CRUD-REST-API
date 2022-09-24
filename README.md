@@ -16,4 +16,4 @@
 
 ### API Endpoints (CRUD):
 
-![Alt text](/Public/endpoints.png)
+![Alt text](./public/endpoints.png)
